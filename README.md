@@ -42,4 +42,4 @@ Once the application is running, you can access the following:
 The metrics endpoint at:
 http://localhost:{update-your-port}/metrics
 
-Replace {update-your-port} with the appropriate port number for your application.
+Replace `{update-your-port}` with the appropriate port number for your application.
